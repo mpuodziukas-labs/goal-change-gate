@@ -2,6 +2,8 @@
 
 Proves: a goal change in an agent transcript counts only when a signed owner message precedes it inside a time window. Verify in 60s: `bash run.sh`
 
+Where this fits: OWASP LLM Top 10 2025 LLM06 Excessive Agency; NIST AI RMF function GOVERN. Sources in SOURCES.md.
+
 An autonomous agent changes its objective mid-run after reading a tool result, and no human asked for the change.
 
 ## Ticket
